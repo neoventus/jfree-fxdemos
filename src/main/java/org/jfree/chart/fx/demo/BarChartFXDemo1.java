@@ -120,7 +120,7 @@ public class BarChartFXDemo1 extends Application implements ChartMouseListenerFX
     
     /**
      * Entry point.
-     * 
+     *  Jeong MinHwa
      * @param args the command line arguments
      */
     public static void main(String[] args) {
